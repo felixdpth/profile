@@ -92,17 +92,17 @@ a:hover {
 }
 
 @media (max-width: 960px) {
-    .card {
+    .card-white {
       width: 700px;
     }
   } 
   @media (max-width: 720px) {
-    .card {
+    .card-white {
       width: 500px;
     }
   }
   @media (max-width: 540px) {
-    .card {
+    .card-white {
       width: 300px;
     }
   }
