@@ -77,14 +77,15 @@ a:hover {
     border-radius: 4px;
     padding: 8px 16px;
     border: 1px solid transparent;
-    transition: width 2s, 
+    
 }
 
 .btn-blue:hover {
-    border: 1px solid #0F123A;
-    background-color: #0092AC;
-    color: 0F123A;
-    width: 100px;
+  width: 100px;  
+  border: 1px solid #0F123A;
+  background-color: #0092AC;
+  color: 0F123A;
+    
 }
 
 #intro p {
