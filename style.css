@@ -45,6 +45,7 @@ a:hover {
 
 .card-white:hover {
     width: 800px;
+    border: 1px solid #0F123A;
 }
 
 .text-center {
