@@ -7,6 +7,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-style: 16px;
     font-weight: lighter;
+    transition: width 2s;
 }
 
 h1 {
@@ -29,7 +30,8 @@ a {
 }
 
 a:hover {
-    color : #0092AC
+    color : #0092AC;
+
 }
 
 .card-white {
