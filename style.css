@@ -40,10 +40,11 @@ a:hover {
     padding: 32px;
     box-shadow: 0 5px 5px #B5B4CC;
     border-radius: 4px;
-    transition: width 0.1s, transform 0.1s;
+    transition: width 0.5s, transform 0.1s;
 }
 
 .card-white:hover {
+  width: 730px;
   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
   transform: translate3d(0, 0, 0)
 }
@@ -83,7 +84,7 @@ a:hover {
   padding: 8px 32px;
   border: 1px solid #0F123A;
   background-color: #0092AC;
-  color: 0F123A;
+  color: #0F123A;
 }
 
 #intro p {
