@@ -85,7 +85,7 @@ a:hover {
     background-color: #0092AC;
     color: 0F123A;
     width: 200px;
-    transform: rotate(360deg);
+    transform: rotate(360);
 }
 
 #intro p {
