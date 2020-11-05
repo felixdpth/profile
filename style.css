@@ -90,3 +90,19 @@ a:hover {
 #footer{
     font-size: 40px;
 }
+
+@media (max-width: 960px) {
+    .card {
+      width: 700px;
+    }
+  } 
+  @media (max-width: 720px) {
+    .card {
+      width: 500px;
+    }
+  }
+  @media (max-width: 540px) {
+    .card {
+      width: 300px;
+    }
+  }
