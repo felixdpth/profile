@@ -1,0 +1,92 @@
+/* Colors and font*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Roboto:wght@400;700&display=swap');
+
+body {
+    background-color: #E6EDFF;
+    color: #0F123A;
+    font-family: 'Roboto', sans-serif;
+    font-style: 16px;
+    font-weight: lighter;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    Color : #0092AC
+}
+
+a {
+    text-decoration: none;
+    color: #0F123A;
+    font-weight: bold;
+}
+
+a:hover {
+    color : #0092AC
+}
+
+.card-white {
+    background-color: whitesmoke;
+    border: 0.5px solid #0F123A;
+    width: 700px;
+    margin: 20px auto;
+    padding: 32px;
+    box-shadow: 0 10px 10px #B5B4CC;
+    border-radius: 4px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.text-justify {
+    text-align: justify
+}
+
+.list-horizontal {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-horizontal li {
+    display: inline-block;
+    padding : 0px 16px;
+}
+
+.btn-blue {
+    background-color: #0F123A;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+}
+
+.btn-blue:hover {
+    border: 1px solid #0F123A;
+    background-color: #0092AC;
+    color: 0F123A;
+}
+
+
+#img-bleu-border {
+    border : 2px solid #0F123A;
+}
+
+#intro p {
+    margin : 40px;
+}
+
+#footer{
+    font-size: 40px;
+}
