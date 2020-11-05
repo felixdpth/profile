@@ -40,7 +40,7 @@ a:hover {
     padding: 32px;
     box-shadow: 0 5px 5px #B5B4CC;
     border-radius: 4px;
-    transition: width 0.5s;
+    transition: width 0.1s;
 }
 
 .card-white:hover {
