@@ -47,7 +47,6 @@ a:hover {
   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
   transform: translate3d(0, 0, 0)
     width: 800px;
-    transform: scale(0.5) translate(-100%, -100%);
 }
 
 .text-center {
