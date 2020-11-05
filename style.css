@@ -46,7 +46,6 @@ a:hover {
 .card-white:hover {
   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
   transform: translate3d(0, 0, 0)
-  width: 800px;
 }
 
 .text-center {
@@ -78,12 +77,15 @@ a:hover {
     border-radius: 4px;
     padding: 8px 16px;
     border: 1px solid transparent;
+    transition: transform 0.1s;
 }
 
 .btn-blue:hover {
     border: 1px solid #0F123A;
     background-color: #0092AC;
     color: 0F123A;
+    transform: rotate(360deg);
+
 }
 
 #intro p {
