@@ -30,8 +30,8 @@ a {
 }
 
 a:hover {
+    font-size: 48px;
     color : #0092AC;
-    transition: width 1s;
 }
 
 .card-white {
